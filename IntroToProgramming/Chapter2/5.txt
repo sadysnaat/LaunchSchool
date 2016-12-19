@@ -1,0 +1,7 @@
+First snippet prints 3 on the console. But second snippet
+results in the following error
+
+NameError: undefined local variable or method `x' for main:Object
+
+It is because x is defined inside 3.times do...end block and we can't access
+it outside.

@@ -1,0 +1,5 @@
+# for Ruby apis
+https://ruby-doc.org
+
+# for rails
+http://api.rubyonrails.org/

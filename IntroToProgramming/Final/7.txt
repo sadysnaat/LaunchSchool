@@ -1,0 +1,3 @@
+Array contains values that are accessed by indices
+
+Hash contains key, value pairs where values are accessed by keys
